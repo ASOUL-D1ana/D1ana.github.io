@@ -53,7 +53,7 @@
         "id": "1007",
         "name": "天赋异禀",
         "description": "初始可用属性点+2",
-        "grade": 0,
+        "grade": 1,
         "status": 2
     },
     "1008": {
